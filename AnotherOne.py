@@ -1,1 +1,4 @@
-print("Another unuseful function")
+def f():
+    print("Another unuseful function")
+
+f()
